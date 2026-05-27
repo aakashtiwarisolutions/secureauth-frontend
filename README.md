@@ -70,7 +70,11 @@ App runs on http://localhost:3000
 ## Author
 
 Aakash Tiwari
+
 MS Cybersecurity, Rowan University
+
 tiwariaakash1001@gmail.com
+
 GitHub: https://github.com/aakashtiwarisolutions
+
 LinkedIn: https://www.linkedin.com/in/aakash-tiwari-46b6b916b
